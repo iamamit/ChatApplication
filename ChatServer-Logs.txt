@@ -1,0 +1,8 @@
+xyz: Hello
+abc: how are you xyz
+Uma: Hello Amit
+Amit: Hi Uma
+Amit: How Are you?//
+Uma: Fuck off Uma
+Amit: Aisa mat bolo darling
+Uma: Lol
