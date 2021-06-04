@@ -5,3 +5,6 @@ ChatApplication: Java socket Programming
 Java (Language)
 Socket Programming
 Multithreading & Concurrency
+
+# Purposes
+A small standalone application designed understand socket programming and multithreading concepts
